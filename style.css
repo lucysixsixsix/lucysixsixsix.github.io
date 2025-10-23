@@ -8,3 +8,7 @@ body {
   left: 50%;
   top: 50%;
 }
+
+#main h1 {
+  text-color: #bc13fe;
+}
