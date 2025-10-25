@@ -14,3 +14,26 @@ body {
   text-align: center;
   color: #ed8a17;
 }
+
+#nav {
+  border: white;
+  padding: 0px 5px;
+  float: right;
+  text-align: center;
+  border-style: solid;
+  margin: 5px;
+  padding-top: -10px;
+  cursor: pointer;
+}
+
+a, #a1, #a2, {
+  color: black;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+#a2, #a3, #a4 {
+  color: white;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
