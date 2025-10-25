@@ -1,2 +1,2 @@
 # TO-DO
-### create project/about me pages
+### fix navbar position on whoami.html and projects.html
