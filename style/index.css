@@ -3,8 +3,12 @@ body {
   background-color: #111111;
 }
 
-h1, br {
+h1 {
   color: #ed8a17;
+}
+
+br {
+  color: white !important;
 }
 
 #main {
