@@ -1,3 +1,2 @@
 # TO-DO
-### - add menu bar
-### - organize files
+### create project/about me pages
