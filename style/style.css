@@ -37,3 +37,14 @@ a, #a1, #a2, {
   font-size: 1.5em;
   font-weight: bolder;
 }
+
+.drop-down:onhover {
+  animate-name: dropper;
+  animation-duration: 2s;
+  text-align: center;
+}
+
+.drop-down {
+  float: right;
+  text-align: center;
+}
