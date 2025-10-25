@@ -26,13 +26,6 @@ a, #a1, #a2, {
   font-weight: bolder;
 }
 
-main {
-  transform: translate(-50%, -50%);
-  position: absolute;
-  left: 50%;
-  top: 50%;
-}
-
 #nav {
   border: white;
   padding: 0px 5px;
@@ -79,7 +72,7 @@ main {
 
 #navbtn {
   float: left;
-  color: #ed8a17;
+  color: white;
 }
 
 #indicator {
