@@ -72,9 +72,10 @@ a, #a1, #a2, {
 
 #navbtn {
   float: left;
-  color: white;
+  color: #ed8a17;
 }
 
 #indicator {
   float: right;
+  color: #ed8a17;
 }
