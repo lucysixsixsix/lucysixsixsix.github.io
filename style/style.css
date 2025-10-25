@@ -26,6 +26,10 @@ body {
   cursor: pointer;
 }
 
+#navbtn {
+  color: #e78717;
+}
+
 a, #a1, #a2, {
   color: #ed8a17;
   font-size: 1.5em;
