@@ -27,13 +27,13 @@ body {
 }
 
 a, #a1, #a2, {
-  color: black;
+  color: #ed8a17;
   font-size: 1.5em;
   font-weight: bolder;
 }
 
 #a2, #a3, #a4 {
-  color: white;
+  color: #ed8a17;
   font-size: 1.5em;
   font-weight: bolder;
 }
