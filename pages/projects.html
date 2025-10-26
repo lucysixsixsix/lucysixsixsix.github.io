@@ -4,23 +4,39 @@
     <title>My Projects</title>
     <link rel="icon" href="./../images/favicon1.ico">
     <link rel="stylesheet" href="./../style/projects.css">
-    <link rel="stylesheet" href="./../style/nav.css">
+    <link rel="stylesheet" href="./../style/navprojects.css">
     <script src="./../scripts/main.js" defer></script>
   </head>
   <body>
-    <h1 style="text-align: center;">Welcome!</h1>
+    <h1 style="text-align: center;">My Projects</h1>
     <hr>
 
-    <div id="nav">
+    <div id="nav" style="position:fixed;text-align:right;">
       <h2 onclick="dropDown()" id="navbtn">Navigate</h2>
       <h2 id="indicator">↓</h2>
 
       <div id="drop-down" class="hidden" style="text-align: center;">
-        <a id="a2" href="./../index.html">Home</a>
+        <a id="a2" href="./../landing.html">Home</a>
         <br>
         <a id="a3" href="./../pages/whoami.html">Who Am I?</a>
         <br>
         <a id="a4" href="./../pages/projects.html">Projects</a>
+      </div>
+    </div>
+
+    <div id="projects">
+      <div id="prj1">
+        <h1>My niri rice</h1>
+        <hr>
+        <h2><a style="font-size: 2rem;" href="https://github.com/YaLTeR/niri">Niri</a> is a scrollable tiling wayland compositer</h2>
+      </div>
+
+      <br>
+
+      <div id="prj2">
+        <h1>Turnbinds</h1>
+        <hr>
+        <h2><a style="font-size: 2rem;" href="https://github.com/lucysixsixsix/turnbinds-wayland">Turnbinds</a> for linux</h2>
       </div>
     </div>
 

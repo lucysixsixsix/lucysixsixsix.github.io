@@ -4,3 +4,24 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#projects {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+#prj1, #prj2 {
+  color: #f8d8f9;
+  text-align: center;
+  text-wrap-mode: wrap;
+
+  border-radius: 5px;
+  border-style: solid;
+  background-color: #111111;
+  opacity: 0.6;
+  border-color: white;
+  border-spacing: 5px 1rem;
+
+}

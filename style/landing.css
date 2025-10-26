@@ -1,0 +1,10 @@
+body {
+  font-family: "Noto Sans Mono", monospace;
+  background-image: url("https://raw.githubusercontent.com/lucysixsixsix/niri-rice/refs/heads/main/config/walls/13.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #ed8a17;
+}

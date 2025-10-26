@@ -7,3 +7,5 @@ function dropDown() {
   dd.classList.toggle("hidden");
   $("#indicator").innerHTML = dd.classList == "hidden" ? "↓" : "↑";
 };
+
+console.log("there's nothing to see here");
